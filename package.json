@@ -14,7 +14,8 @@
   "main": "index.js",
   "dependencies": {
     "debug": "^2.1.0",
-    "mdns-js-packet": "0.1.x"
+    "mdns-js-packet": "0.1.x",
+    "semver": "^4.3.0"
   },
   "devDependencies": {
     "code": "^1.2.1",
